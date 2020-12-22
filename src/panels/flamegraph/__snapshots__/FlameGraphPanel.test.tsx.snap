@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlameGraphPanel should render a loading screen 1`] = `"<div class=\\"datapoints-warning\\"><span class=\\"small\\">Sampling, waiting for data...<i class=\\"grafana-tip fa fa-question-circle\\"></i></span></div>"`;
